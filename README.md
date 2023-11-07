@@ -1,2 +1,2 @@
 # intrepidbird-org.github.io
-Organization Website
+Website for The IntrepidBird Organization
